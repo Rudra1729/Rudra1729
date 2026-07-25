@@ -1,6 +1,6 @@
 # Hi, I'm Rudra 👋
 
-🎓 Computer Science (Honors), University of Massachusetts Amherst, Class of 2028
+🎓 Computer Science + Math (Honors), University of Massachusetts Amherst, Class of 2028
 🤖 Focused on **Machine Learning, LLMs, and Applied AI Research**
 🔬 Currently: Data Science & ML Intern @ UMass Dept. of Data Science and AI
 
